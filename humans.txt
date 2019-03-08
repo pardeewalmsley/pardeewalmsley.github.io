@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alexander Walmsley
+
+# THANKS
+
+    Joshua Ward for the inspiration behind the scrolling parallax landscape:
+
+	https://codepen.io/joshuaward/pen/vZoaNE 
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, SCSS, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Waypoints.js
