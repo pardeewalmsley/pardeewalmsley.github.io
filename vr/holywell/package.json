@@ -1,0 +1,21 @@
+{
+  "name": "aframe-360-tour-template",
+  "description": "A WebVR scene. Made with A-Frame, a WebVR framework.",
+  "author": "A-Frame authors",
+  "version": "0.5.17",
+  "license": "CC0-1.0",
+  "repository": "aframevr-userland/aframe-360-tour-template",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "aframe serve",
+    "build": "aframe build"
+  },
+  "dependencies": {
+    "aframe": "^0.6.0",
+    "aframe-look-at-component": "^0.5.1",
+    "aframe-no-click-look-controls": "^1.0.4"
+  },
+  "devDependencies": {
+    "aframe-cli": "0.5.16"
+  }
+}
